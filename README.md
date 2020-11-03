@@ -7,13 +7,19 @@
 Essentially a dashboard system, where hospitals manage their own staff, equipment and supplies, and keep it in check.
 
 ### View the dashboard system (in working) [here](https://arhaanb.co/sahyog/app)
-### Download the mobiel app (in working) [here](https://arhaanb.co/sahyog/apk)
+### Download the mobile app (in working) [here](https://arhaanb.co/sahyog/apk)
 
 During this almost Third World War, all medical faculties would have to work together, pitch in, look beyond just profit to help out other surrounding hospitals to keep operating, and ensuring that no patient is left unseen.
 
 ### View the branding for said project [here](https://siddhayak.co/sahyog)
 
 Let's work together to defeat the virus.
+
+### Source Codes
+
+- [Mobile App](https://github.com/shero4/sadda-hack-app)
+- [Web Application](https://github.com/arhaanb/sahyog-dash)
+- [Promotional Website](https://github.com/arhaanb/sahyog-web)
 
 ### The team
 
