@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="830" height="830" viewBox="0 0 830 830">
+  <defs>
+    <clipPath id="clip-logo">
+      <rect width="830" height="830"/>
+    </clipPath>
+  </defs>
+  <g id="logo" clip-path="url(#clip-logo)">
+    <path id="Path_823" data-name="Path 823" d="M18723.824,4791.139l-20.428,46.571-14.725,37.455s-3.1,11.882,16.531,7.491,75.166-25.572,75.166-25.572,6.973-2.325,12.916,0S18723.824,4791.139,18723.824,4791.139Z" transform="translate(-18517.832 -4234.502)" fill="#ce696c"/>
+    <ellipse id="Ellipse_41" data-name="Ellipse 41" cx="259.5" cy="247.5" rx="259.5" ry="247.5" transform="translate(156 168)" fill="#ce696c"/>
+    <g id="Group_44" data-name="Group 44" transform="translate(269.406 309.745)" style="isolation: isolate">
+      <path id="Path_766" data-name="Path 766" d="M8809.063,6223.872l172.468-117.9s-4.6,12.419-9.293,23.666-10.322,18.255-11.912,20.9c-.933,1.55-9.5,11.288-22.058,20.373-7.986,5.774-24.735,19.285-34.855,26.392-34.318,24.1-62.088,42.106-62.088,42.106Z" transform="translate(-8690.718 -6002.058)" fill="#fcf9f8"/>
+      <path id="Path_767" data-name="Path 767" d="M8787.66,6221.251l215.829-142.261s6.145,7.223,7.339,19.5-1.2,15.693-1.2,15.693l-194.381,130.164Z" transform="translate(-8716.949 -6035.131)" fill="#fcebe8"/>
+      <path id="Path_768" data-name="Path 768" d="M8792.73,6229.509l222.409-147.383a81.778,81.778,0,0,0-13.069-12.414,80.954,80.954,0,0,0-15.76-8.63l-217.941,143.851Z" transform="translate(-8740.594 -6057.083)" fill="#f9dbd6"/>
+      <path id="Path_769" data-name="Path 769" d="M8756.749,6159.361l127.047-83.573,18.677,19.163s6.271-9.609,9.553-13.05,10.965-11.123,20.857-16.24,20.5-6.053,23.665-6.276,11.43,0,11.43,0l-84.182,56.5-111.765,73.928Z" transform="translate(-8754.84 -6059.286)" fill="#fdd1ca"/>
+      <path id="Path_770" data-name="Path 770" d="M8861.689,6062.348l-105.223,72.1s-4.035-13.261,9.225-35.171,27.963-29.4,27.963-29.4,19.895-10.381,40.359-9.8S8861.689,6062.348,8861.689,6062.348Z" transform="translate(-8755.889 -6058.349)" fill="#ffbdb3"/>
+    </g>
+  </g>
+</svg>
